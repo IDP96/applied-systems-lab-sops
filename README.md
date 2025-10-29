@@ -4,6 +4,7 @@ This repository documents Standard Operating Procedures (SOPs) and reliability m
 
 ## Contents
 - Rig startup and shutdown procedures
+- Operation Continuity  
 - Cooling strategy and thermal management
 - Diagnostics and component replacement
 - Power usage optimization
