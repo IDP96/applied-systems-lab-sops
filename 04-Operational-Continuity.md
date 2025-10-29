@@ -44,12 +44,12 @@ This SOP outlines best practices for maintaining stable, efficient, and resilien
 
 ---
 
-## 5. Chip Temperature Monitoring
+## 5. Hash Board-level Temperature Monitoring
 
-- Use open-source tools or miner dashboard to manually check chip-level temperatures  
+- Use open-source tools or miner dashboard to manually check hash board-level temperatures  
 - If supported, query chip temps via API or local interface  
 - Log readings periodically to detect thermal drift  
-- Recommended threshold: investigate if chip temp exceeds 85°C  
+- Recommended threshold: investigate if hash board temp exceeds 85°C  
 - Alerts are not supported in this setup — rely on manual review or scheduled checks
 
 ---
